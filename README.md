@@ -26,7 +26,7 @@
 - 🔭 Currently working on **Full-Stack Projects**
 - 🌱 Learning **Advanced Node.js, Express & Databases**
 - 👯 Open to **collaborations & internships**
-- 📫 Reach me at **suraj.nagaich_cs23@gla.ac.in**
+- 📫 Reach me at **nagaichsuraj1@gmail.com**
 
 ---
 
