@@ -56,7 +56,7 @@
 🔗 **Live:** https://blogweb-yek7.onrender.com  
 - Full-stack blog platform  
 - Built with **HTML, CSS, JS, EJS, Express, MongoDB**  
-- Dynamic content & CRUD operations  
+- Dynamic content & CRUD operations
 
 ---
 
