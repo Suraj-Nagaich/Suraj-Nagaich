@@ -46,7 +46,8 @@
 - Data Structures & Algorithms  
 - Operating Systems  
 - DBMS  
-- Computer Networks  
+- Computer Networks
+  
 
 ---
 
