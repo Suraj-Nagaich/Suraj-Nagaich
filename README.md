@@ -25,7 +25,7 @@
 - 💡 Passionate about **Web Development & Backend Systems**
 - 🔭 Currently working on **Full-Stack Projects**
 - 🌱 Learning **Advanced Node.js, Express & Databases**
-- 👯 Open to **collaborations & internships**
+- 👯 Incoming Senior Network Associate intern at **Samsung Resarch and Development(R&D)**
 - 📫 Reach me at **nagaichsuraj1@gmail.com**
 
 ---
