@@ -109,7 +109,7 @@
   <a href="https://www.linkedin.com/in/suraj-nagaich-251430296">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:suraj.nagaich_cs23@gla.ac.in">
+  <a href="mailto:nagaichsuraj2@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://github.com/Suraj-Nagaich">
